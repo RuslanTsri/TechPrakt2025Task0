@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\SUM_FOR_NUMBERS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6020DBD-8EA2-46CA-B17E-E7922868B6B3}|SUM_FOR_NUMBERS.csproj|e:\\1. \u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0436\u0434\u0442\u0443)\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\c#_project\\sum_for_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6020DBD-8EA2-46CA-B17E-E7922868B6B3}|SUM_FOR_NUMBERS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074F70D9-C34D-4D32-869A-26C183D71693}|..\\Library\\Library.csproj|e:\\1. \u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0436\u0434\u0442\u0443)\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\c#_project\\library\\unicodeio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074F70D9-C34D-4D32-869A-26C183D71693}|..\\Library\\Library.csproj|e:\\1. \u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0436\u0434\u0442\u0443)\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\c#_project\\library\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074F70D9-C34D-4D32-869A-26C183D71693}|..\\Library\\Library.csproj|e:\\1. \u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0436\u0434\u0442\u0443)\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\c#_project\\library\\adder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074F70D9-C34D-4D32-869A-26C183D71693}|..\\Library\\Library.csproj|e:\\1. \u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0436\u0434\u0442\u0443)\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\c#_project\\library\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnicodeIO.cs",
+              "DocumentMoniker": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\UnicodeIO.cs",
+              "RelativeDocumentMoniker": "..\\Library\\UnicodeIO.cs",
+              "ToolTip": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\UnicodeIO.cs",
+              "RelativeToolTip": "..\\Library\\UnicodeIO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:11:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Printer.cs",
+              "RelativeDocumentMoniker": "..\\Library\\Printer.cs",
+              "ToolTip": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Printer.cs",
+              "RelativeToolTip": "..\\Library\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:03:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adder.cs",
+              "DocumentMoniker": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Adder.cs",
+              "RelativeDocumentMoniker": "..\\Library\\Adder.cs",
+              "ToolTip": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Adder.cs",
+              "RelativeToolTip": "..\\Library\\Adder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:00:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Initializer.cs",
+              "RelativeDocumentMoniker": "..\\Library\\Initializer.cs",
+              "ToolTip": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\Library\\Initializer.cs",
+              "RelativeToolTip": "..\\Library\\Initializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:57:24.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\SUM_FOR_NUMBERS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\1. \u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430 (\u0416\u0414\u0422\u0423)\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\2 \u041A\u0443\u0440\u0441\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0432\u0434\u0430\u043D\u043D\u044F_0\\C#_project\\SUM_FOR_NUMBERS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:54:43.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
