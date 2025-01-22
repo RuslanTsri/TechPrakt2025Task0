@@ -24,14 +24,14 @@
 4. вивантажено усі коміти з локального у віддалений репозиторій
 
 ### Використані команди Git:  
-[x] `git init`  
-[x] `git status`  
-[x] `git add`  
-[x] `git commit`  
-[x] `git remote add`  
-[x] `git push`  
-[x] `git pull`  
-[] `git branch`
+-[x] `git init`  
+-[x] `git status`  
+-[x] `git add`  
+-[x] `git commit`  
+-[x] `git remote add`  
+-[x] `git push`  
+-[x] `git pull`  
+-[] `git branch`
 
 ---
 
